@@ -1,6 +1,6 @@
 This simple program prints the corresponding place value of each digit in a three-digit number stored in user_val.
 
-I think of this as a self-induced excercise to challenge my understanding of the MODULO operator (%).
+I servers as a gentle, but informative excercise to challenge my understanding of the MODULO operator (%).
 
 Now, you may ask: "What is the MODULO operator?"
 
