@@ -1,4 +1,6 @@
-A simple program that prints the corresponding place value of each digit in a three-digit number stored in user_val.
+**Place Value**: A Practice Program in Python
+
+Place Value is a simple program that prints the corresponding place value of each digit in a three-digit number stored in user_val.
 
 This serves as a gentle, but informative excercise to challenge my understanding of the MODULO operator (%).
 
